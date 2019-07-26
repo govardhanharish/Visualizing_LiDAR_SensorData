@@ -1,5 +1,7 @@
 # Visualizing_LiDAR_SensorData
 
+![alt text](https://raw.githubusercontent.com/govardhanharish/Visualizing_LiDAR_SensorData/master/SampleOut/Generated.gif)
+
 1. Uber AVS Autonomous Visualization System (AVS) --- XVIZ (the data layer for AVS)
 Quick start
 
